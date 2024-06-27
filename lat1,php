@@ -1,0 +1,18 @@
+<?php
+Bentuk Pertama
+Bentuk Kedua
+<script language="php">
+    echo("Bentuk Ketiga");
+    </script>
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+Bentuk Penulisan Keempat
+</body>
+</html> 
